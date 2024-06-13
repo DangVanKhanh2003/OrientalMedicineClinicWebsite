@@ -255,7 +255,7 @@ html body{
     font-weight: 100;
 
 }
-.menuItem a:hover{
+.menuItem:hover{
     font-weight: 700;
     color: #ac4d00 !important;
     border-bottom: 4px solid #ac4d00;
